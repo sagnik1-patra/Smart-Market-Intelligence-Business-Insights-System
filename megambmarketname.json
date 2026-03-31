@@ -1,0 +1,312 @@
+[
+    {
+        "District Name":"East Garo Hills",
+        "Block Name":"Dambo Rongjeng",
+        "Market Name":"Rongjeng"
+    },
+    {
+        "District Name":"East Garo Hills",
+        "Block Name":"Kharkuta",
+        "Market Name":"Adokgiri"
+    },
+    {
+        "District Name":"East Garo Hills",
+        "Block Name":"Kharkuta",
+        "Market Name":"Kharkutta"
+    },
+    {
+        "District Name":"East Garo Hills",
+        "Block Name":"Resubelpara",
+        "Market Name":"Bajengdoba"
+    },
+    {
+        "District Name":"East Garo Hills",
+        "Block Name":"Resubelpara",
+        "Market Name":"Mendipathar"
+    },
+    {
+        "District Name":"East Garo Hills",
+        "Block Name":"Samanda",
+        "Market Name":"Rongsak"
+    },
+    {
+        "District Name":"East Garo Hills",
+        "Block Name":"Samanda",
+        "Market Name":"Samanda"
+    },
+    {
+        "District Name":"East Garo Hills",
+        "Block Name":"Samanda",
+        "Market Name":"Williamnagar"
+    },
+    {
+        "District Name":"East Garo Hills",
+        "Block Name":"Songsak",
+        "Market Name":"Songsak"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Laitkroh",
+        "Market Name":"Laitlyngkot"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Mawphlang",
+        "Market Name":"Mawngap"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Mawphlang",
+        "Market Name":"Sohiong"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Mawryngkneng",
+        "Market Name":"Mawryngkneng"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Mawryngkneng",
+        "Market Name":"Smit"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Mawsynram",
+        "Market Name":"Mawsynram"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Mawsynram",
+        "Market Name":"Tyrsad"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Mylliem",
+        "Market Name":"Iewduh(Shillong)"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Mylliem",
+        "Market Name":"Mawiong Regulated Market"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Pynursla",
+        "Market Name":"Pynursla"
+    },
+    {
+        "District Name":"East Khasi Hills",
+        "Block Name":"Shella-Bholaganj",
+        "Market Name":"Shella"
+    },
+    {
+        "District Name":"Jaintia Hills",
+        "Block Name":"Amlarem",
+        "Market Name":"Dawki"
+    },
+    {
+        "District Name":"Jaintia Hills",
+        "Block Name":"Khliehriat",
+        "Market Name":"Khliehriat"
+    },
+    {
+        "District Name":"Jaintia Hills",
+        "Block Name":"Khliehriat",
+        "Market Name":"Umkiang"
+    },
+    {
+        "District Name":"Jaintia Hills",
+        "Block Name":"Laskein",
+        "Market Name":"Raliang"
+    },
+    {
+        "District Name":"Jaintia Hills",
+        "Block Name":"Laskein",
+        "Market Name":"Shangpung"
+    },
+    {
+        "District Name":"Jaintia Hills",
+        "Block Name":"Thadlaskein",
+        "Market Name":"Jowai"
+    },
+    {
+        "District Name":"Jaintia Hills",
+        "Block Name":"Thadlaskein",
+        "Market Name":"Khanduli"
+    },
+    {
+        "District Name":"Jaintia Hills",
+        "Block Name":"Thadlaskein",
+        "Market Name":"Nartiang"
+    },
+    {
+        "District Name":"Jaintia Hills",
+        "Block Name":"Thadlaskein",
+        "Market Name":"Wahiajer"
+    },
+    {
+        "District Name":"Ri-Bhoi",
+        "Block Name":"Jirang",
+        "Market Name":"Jirang"
+    },
+    {
+        "District Name":"Ri-Bhoi",
+        "Block Name":"Jirang",
+        "Market Name":"Patharkhmah"
+    },
+    {
+        "District Name":"Ri-Bhoi",
+        "Block Name":"Umling",
+        "Market Name":"20th Mile"
+    },
+    {
+        "District Name":"Ri-Bhoi",
+        "Block Name":"Umling",
+        "Market Name":"Byrnihat"
+    },
+    {
+        "District Name":"Ri-Bhoi",
+        "Block Name":"Umling",
+        "Market Name":"Nongpoh"
+    },
+    {
+        "District Name":"Ri-Bhoi",
+        "Block Name":"Umling",
+        "Market Name":"Umden"
+    },
+    {
+        "District Name":"Ri-Bhoi",
+        "Block Name":"Umsning",
+        "Market Name":"Umroi"
+    },
+    {
+        "District Name":"Ri-Bhoi",
+        "Block Name":"Umsning",
+        "Market Name":"Umsning"
+    },
+    {
+        "District Name":"South Garo Hills",
+        "Block Name":"Baghmara",
+        "Market Name":"Emangiri"
+    },
+    {
+        "District Name":"South Garo Hills",
+        "Block Name":"Baghmara",
+        "Market Name":"Sibbari"
+    },
+    {
+        "District Name":"South Garo Hills",
+        "Block Name":"Chokpot",
+        "Market Name":"Chokpot"
+    },
+    {
+        "District Name":"South Garo Hills",
+        "Block Name":"Ronggara",
+        "Market Name":"Maheshkhola"
+    },
+    {
+        "District Name":"South Garo Hills",
+        "Block Name":"Ronggara",
+        "Market Name":"Ronggara"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Betasing",
+        "Market Name":"Ampati"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Dadenggiri",
+        "Market Name":"Dadenggiri"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Dadenggiri",
+        "Market Name":"Romagal"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Dalu",
+        "Market Name":"Dalu"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Dalu",
+        "Market Name":"Purakhasia"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Rongram",
+        "Market Name":"Rongram"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Rongram",
+        "Market Name":"Tura"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Selsella",
+        "Market Name":"Garobadha Regulated Market"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Tikrikilla",
+        "Market Name":"Raksamgiri"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Tikrikilla",
+        "Market Name":"Tikrikilla"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Zikzak",
+        "Market Name":"Kalaichar"
+    },
+    {
+        "District Name":"West Garo Hills",
+        "Block Name":"Zikzak",
+        "Market Name":"Mahendraganj"
+    },
+    {
+        "District Name":"West Khasi Hills",
+        "Block Name":"Mairang",
+        "Market Name":"Kynshi"
+    },
+    {
+        "District Name":"West Khasi Hills",
+        "Block Name":"Mairang",
+        "Market Name":"Mairang"
+    },
+    {
+        "District Name":"West Khasi Hills",
+        "Block Name":"Mawkyrwat",
+        "Market Name":"Mawkyrwat"
+    },
+    {
+        "District Name":"West Khasi Hills",
+        "Block Name":"Mawshynrut",
+        "Market Name":"Riangdo"
+    },
+    {
+        "District Name":"West Khasi Hills",
+        "Block Name":"Mawshynrut",
+        "Market Name":"Shallang"
+    },
+    {
+        "District Name":"West Khasi Hills",
+        "Block Name":"Nongstoin",
+        "Market Name":"Nongstoin"
+    },
+    {
+        "District Name":"West Khasi Hills",
+        "Block Name":"Nongstoin",
+        "Market Name":"Rambrai"
+    },
+    {
+        "District Name":"West Khasi Hills",
+        "Block Name":"Ranikor",
+        "Market Name":"Balat"
+    }
+]
